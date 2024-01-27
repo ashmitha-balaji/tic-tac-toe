@@ -1,1 +1,1 @@
-# tic-tac-toe-Python code
+# tic-tac-toe (Python code)
